@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eyob Tadele
+- 👀 I’m interested in MERN stack web application development.
+- 🌱 I’m currently working in software industry as a frontend developer
+- 💞️ I’m looking for a remote freelance work.
+- 📫 How to reach me ...well DM me hjob12tadele@gmail.com
